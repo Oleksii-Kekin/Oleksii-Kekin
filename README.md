@@ -5,7 +5,7 @@ I'm React JS Developer from Ukraine
 Main stack:
 <div dir="auto">
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width='30'>
-  <img src='https://vvcestudio.com.br/static/assetsv5/img/codigo/logonextjs.jpg' width='54'>
+  <img src='https://vvcestudio.com.br/static/assetsv5/img/codigo/logonextjs.jpg' width='55'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='30'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' width='30'>
