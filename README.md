@@ -2,11 +2,12 @@
 
 I'm React JS Developer from Ukraine
 
-## Main stack:
-
+Main stack:
+<div dir="auto">
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='30'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='30'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='30'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width='30'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width='30'>
 <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' width='30'>
+</div>
